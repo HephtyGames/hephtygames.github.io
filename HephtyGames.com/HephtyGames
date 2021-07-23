@@ -1,0 +1,188 @@
+
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="preload" href="fonts/lato-v14-latin-300.woff2" as="font" type="font/woff2" crossorigin/>
+    <link rel="preload" href="fonts/lato-v14-latin-700.woff2" as="font" type="font/woff2" crossorigin/>
+    <link rel="preload" href="css/screen.css" as="style">
+    <link rel="stylesheet" href="css/screen.css">
+    <link rel="icon" type="image/x-icon" href="img/simplogo.png">
+</head>
+<body class="wrap">
+<header>
+    <div class="flexbox">
+        <div class="center-on-mobiles">
+            <h1>
+                <a href="#" class="logo">
+                    <span class="sr-only">SimpOrg</span>
+                    <img src="img/simplogo.png" width="120" height="71" alt="SimpOrg Logo">
+                </a>
+            </h1>
+        </div>
+        <nav class="main-nav hide-on-mobiles">
+            <ul>
+                <li class="current"><a href="/">Home</a></li>
+                <li><a href="WSimp/index.html">What's a Simp?</a></li>
+                <li><a href="FASimp/index.html">Find a Simp</a></li>
+				<li><a href="BASimp/index.html">Become a Simp</a></li>
+				<li><a href="Complain/index.html">Complain</a></li>
+            </ul>
+        </nav>
+        <div class="meta hide-on-mobiles">
+            <ul>
+                <li><a href="">v1.0.0</a></li>
+            </ul>
+        </div>
+    </div>
+    <nav class="mobile-nav show-on-mobiles">
+        <ul>
+            <li class="current"><a href="/">Home</a></li>
+            <li><a href="WSimp/index.html">What's a Simp?</a></li>
+            <li><a href="FASimp/index.html">Find a Simp</a></li>
+            <li><a href="BASimp/index.html">Become a Simp</a></li>
+            <li><a href="Complain/index.html">Complain</a></li>
+        </ul>
+    </nav>
+</header>
+<!--All the code above should be copied-->
+
+<section class="intro">
+    <div class="grid">
+        <div class="unit whole center-on-mobiles">
+            <p class="first">Welcome To The Simping Homepage</p>
+			<iframe width="0" height="0" src="https://open.spotify.com/embed/album/6z7z989w7XvnYoSEAEbGfS" frameborder="0" allowfullscreen></iframe>
+			</head>
+        </div>
+    </div>
+</section>
+<section class="features">
+    <div class="grid">
+        <div class="unit one-third">
+            <h2>Simpee of the Month</h2>
+            <p>
+                This is Aviva, aka, <em>AvivaSofia</em> on tik tok. Go show her some love this month and put your simp meter on maximum overdrive!
+            </p>
+            <a href="https://www.tiktok.com/@avivasofia?lang=en">Go to AvivaSofia! &rarr;</a>
+			<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@avivasofia/video/6803484166307482885" data-video-id="6803484166307482885" style="max-width: 605px;min-width: 350px;" > <section> <a target="_blank" title="@avivasofia" href="https://www.tiktok.com/@avivasofia">@avivasofia</a> <p>aviva talks about donuts!</p> <a target="_blank" title="♬ original sound - avivasofia" href="https://www.tiktok.com/music/original-sound-6803476493625232133">♬ original sound - avivasofia</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+        </div>
+		<div class="unit one-third">
+
+        </div>
+	<div class="unit one-third">
+            <h2>Simpee of the Week</h2>
+            <p>
+                This is Selena, aka, <em>snubbullsmom</em> on tik tok. Her page is fairly small so lets help her out by doing what we do best!
+            </p>
+            <a href="https://www.tiktok.com/@snubbullsmom">Simp! &rarr;</a>
+			<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@snubbullsmom/video/6821248455726386437" data-video-id="6821248455726386437" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@snubbullsmom" href="https://www.tiktok.com/@snubbullsmom">@snubbullsmom</a> <p>kings🥰 <a title="fyp" target="_blank" href="https://www.tiktok.com/tag/fyp">##fyp</a> <a title="foryou" target="_blank" href="https://www.tiktok.com/tag/foryou">##foryou</a> <a title="learnfromme" target="_blank" href="https://www.tiktok.com/tag/learnfromme">##learnfromme</a></p> <a target="_blank" title="♬ bow and arrow - little_red_empress" href="https://www.tiktok.com/music/bow-and-arrow-6669857910799076102">♬ bow and arrow - little_red_empress</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+        </div>
+</section>
+<section class="features">
+    <div class="grid">
+        <div class="unit one-half">
+            <h2><center>What To Do</center></h2>
+            <p>
+                This is the homepage, it'll be updated every so often with the simpee of the month/week. Make sure to check back and give those simpees some attention.
+            </p>
+			<p>
+                Check out the, "What's A Simp?" page to learn what a simp is and other related itmes. You can also scroll to the bottom of the page to take a quiz and see how much of a simp you are, if at all! <h4>"no one has gotten 
+				0% simp yet."</h4>
+            </p>
+			<p>
+                If you are trying to expand your follow on tik tok, instagram, or anything else, check out the, "Find a Simp" page. You can submit your @ on the page and it will be added to the simpee list. If you have some specific requests or want become the simpee of
+				the week/month; join the simporg discrod(scroll down for the link).
+            </p>
+			<p>
+                Want to be a pro simp? Go to the, "Become A Simp" page! It has a list of simpee's to choose from. You'll also find some information on how to become an official simp on the simp org discord.
+            </p>
+			<p>
+                Don't like simps? Don't like something about this organization? There is a complain page, where you can leave your opinions for us.
+            </p>
+            </div>
+	</div>
+</section>
+<section class="quickstart">
+    <div class="grid">
+        <div class="unit golden-small center-on-mobiles">
+            <h5>Simp News! Let's See What's Going On With Simps Today.</h5>
+        </div>
+        <div class="clear"></div>
+    </div>
+</section>
+<section class="free-hosting">
+    <div class="grid">
+        <div class="unit whole">
+            <div class="grid pane">
+                <div class="unit whole center-on-mobiles">
+                    <div class="pane-content">
+                        <h2 class="center-on-mobiles"><strong>Simp Community</strong></h2>
+                        <p>Follow the Simp House on Tik Tok: <a href="https://www.tiktok.com/@simp__house?lang=en">Simp__House</a>
+                           &mdash;</p>
+						<p>The Simp Community Is Working on A MineCraft Server! Stay Tuned!</a>
+                           &mdash;</p>
+                        <a href="https://discord.gg/9yAreQR">Join the Simp Org's Discord &rarr;</a>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!--All the code below should be copied-->
+<footer>
+    <div class="grid">
+        <div class="unit one-third center-on-mobiles">
+            <p>SimpOrg is maintained by the Simp Master.</p>
+        </div>
+        <div class="unit two-thirds align-right center-on-mobiles">
+            <p>
+                </a>
+            </p>
+        </div>
+    </div>
+</footer>
+<script>
+    var anchorForId = function (id) {
+        var anchor = document.createElement("a");
+        anchor.className = "header-link";
+        anchor.href = "#" + id;
+        anchor.innerHTML = "<span class=\"sr-only\">Permalink</span><i class=\"fa fa-link\"></i>";
+        anchor.title = "Permalink";
+        return anchor;
+    };
+
+    var linkifyAnchors = function (level, containingElement) {
+        var headers = containingElement.getElementsByTagName("h" + level);
+        for (var h = 0; h < headers.length; h++) {
+            var header = headers[h];
+
+            if (typeof header.id !== "undefined" && header.id !== "") {
+                header.appendChild(anchorForId(header.id));
+            }
+        }
+    };
+
+    document.onreadystatechange = function () {
+        if (this.readyState === "complete") {
+            var contentBlock = document.getElementsByClassName("docs")[0] || document.getElementsByClassName("news")[0];
+            if (!contentBlock) {
+                return;
+            }
+            for (var level = 1; level <= 6; level++) {
+                linkifyAnchors(level, contentBlock);
+            }
+        }
+    };
+</script>
+</body>
+</html>
+
+
+
+
+
+
+
